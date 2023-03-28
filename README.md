@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm David Estrada</h1>
 <h3 align="center">Front developer</h3>
 
-![Generic GIF](https://media.giphy.com/media/Y1RzA2Qzp1TWH8NwvV/giphy.gif)
+![Generic GIF](https://media.giphy.com/media/Y1RzA2Qzp1TWH8NwvV/giphy.gif](https://i.pinimg.com/originals/12/b2/3a/12b23a7752e8a7a4464c1ff5e596237f.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cou201&label=Profile%20views&color=0e75b6&style=flat" alt="cou201" /> </p>
 
@@ -25,12 +25,14 @@ Hola! Mi nombre es David Estrada y soy un desarrollador frontend que trabaja con
 <h1 align="center">Hi 👋, I'm David Estrada</h1>
 <h3 align="center">Front developer</h3>
 
+![Generic GIF](https://i.pinimg.com/originals/12/b2/3a/12b23a7752e8a7a4464c1ff5e596237f.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cou201&label=Profile%20views&color=0e75b6&style=flat" alt="cou201" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cou201" alt="cou201" /></a> </p>
 
 
-![Generic GIF](https://media.giphy.com/media/Y1RzA2Qzp1TWH8NwvV/giphy.gif)
 
 ## Technologies
 
