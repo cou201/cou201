@@ -1,4 +1,4 @@
-# cou201
+# 
 <h1 align="center">Hi 👋, I'm David Estrada</h1>
 <h3 align="center">Front developer</h3>
 
@@ -25,7 +25,7 @@ Hola! Mi nombre es David Estrada y soy un desarrollador frontend que trabaja con
 
 ---
 
-# cou201
+# 
 
 <h1 align="center">Hi 👋, I'm David Estrada</h1>
 <h3 align="center">Front developer</h3>
