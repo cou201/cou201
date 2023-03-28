@@ -19,6 +19,10 @@
 
 Hola! Mi nombre es David Estrada y soy un desarrollador frontend que trabaja con grandes E-commerce como Diesel, Superdry y Kipling. Si deseas ponerte en contacto conmigo, puedes escribirme a davidestradag200@gmail.com o llamarme al +57 3186832028.
 
+
+[![linkedin-icon](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/david-estrada-grisales-228239214/)
+[![email-icon](https://img.icons8.com/color/48/000000/gmail.png)](mailto:davidestradag200@gmail.com)
+
 ---
 
 # cou201
