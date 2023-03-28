@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cou201&label=Profile%20views&color=0e75b6&style=flat" alt="cou201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cou201" alt="cou201" /></a> </p>
+<p align="left"> <a href="https://github.com/cou201"><img src="https://github-profile-trophy.vercel.app/?username=cou201" alt="cou201" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Vue.js, TypeScript**
 
